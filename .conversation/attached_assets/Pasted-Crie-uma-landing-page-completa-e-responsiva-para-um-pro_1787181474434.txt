@@ -1,0 +1,152 @@
+Crie uma landing page completa e responsiva para um produto fictício de maquiagem de efeitos especiais (SFX) chamado “SFX LAB – Horror Starter Kit”.
+
+CONCEITO DA MARCA:
+A SFX LAB é uma marca premium de maquiagem de efeitos especiais voltada para iniciantes, estudantes de audiovisual, maquiadores e criadores de conteúdo de horror. A estética deve parecer uma marca profissional de cinema, e não uma loja de fantasias de Halloween.
+
+DIREÇÃO VISUAL:
+- Estética dark, cinematográfica e sofisticada
+- Fundo predominantemente preto ou quase preto
+- Vermelho escuro como cor de destaque
+- Branco/cinza para textos
+- Alto contraste
+- Texturas sutis de metal, plástico, papel técnico e laboratório
+- Tipografia moderna, forte e editorial
+- Visual inspirado em laboratórios de efeitos especiais e bastidores de filmes de terror
+- Evitar aparência infantil, exageradamente gótica ou temática de Halloween
+- O produto deve parecer real e premium
+
+PRODUTO PRINCIPAL:
+Uma caixa preta premium com o texto:
+“SFX LAB”
+“HORROR STARTER KIT”
+
+A caixa deve conter:
+- sangue artificial
+- gel de sangue/coágulo
+- massa/cera para feridas
+- látex líquido
+- esponjas
+- espátula
+- pincel
+- pequenos acessórios de maquiagem SFX
+
+Crie imagens/mockups consistentes do mesmo produto ao longo da página. O design da embalagem deve permanecer visualmente consistente.
+
+HERO SECTION:
+Criar uma seção inicial impactante com uma imagem grande do SFX Horror Starter Kit.
+
+Título:
+“MAKE THE IMPOSSIBLE LOOK REAL.”
+
+Subtítulo:
+“Professional SFX makeup. Made for beginners.”
+
+Botão principal:
+“GET THE KIT”
+
+Botão secundário:
+“EXPLORE THE KIT”
+
+Adicionar pequenos elementos gráficos discretos inspirados em fichas técnicas de efeitos especiais.
+
+SEÇÃO 2 — O KIT:
+Título:
+“EVERYTHING YOU NEED TO CREATE THE WOUND.”
+
+Mostrar os produtos do kit em uma composição fotográfica organizada e premium.
+
+Criar cards para:
+- Artificial Blood
+- Wound Wax
+- Liquid Latex
+- Blood Gel
+- SFX Sponges
+- Precision Tool
+
+Cada card deve ter uma pequena descrição.
+
+SEÇÃO 3 — COMO FUNCIONA:
+Criar uma seção visual mostrando a transformação de uma pele limpa em uma ferida de SFX.
+
+Etapas:
+01 — PREPARE
+02 — BUILD
+03 — TEXTURE
+04 — BLOOD
+05 — FINAL RESULT
+
+Usar imagens de maquiagem SFX realista, porém sem gore extremo.
+
+SEÇÃO 4 — FEITO PARA CRIADORES:
+Título:
+“FROM MAKEUP TO STORY.”
+
+Texto:
+“SFX makeup isn't just about creating wounds. It's about creating characters, emotions and stories.”
+
+Mostrar três aplicações:
+HORROR
+FILM
+CHARACTER DESIGN
+
+SEÇÃO 5 — O QUE VEM NA CAIXA:
+Mostrar uma imagem da caixa aberta com todos os produtos organizados.
+
+Adicionar uma lista visual dos itens incluídos.
+
+SEÇÃO 6 — DEPOIMENTOS:
+Criar 3 depoimentos fictícios curtos de usuários, com nomes fictícios e profissões relacionadas a audiovisual/maquiagem.
+
+SEÇÃO 7 — PREÇO:
+Criar uma seção de conversão forte.
+
+“HORROR STARTER KIT”
+“Everything you need to start creating.”
+
+Preço:
+R$ 189,90
+
+Botão:
+“GET YOUR KIT”
+
+Adicionar:
+✓ Beginner friendly
+✓ Cinema-inspired products
+✓ Complete starter kit
+✓ Step-by-step guide
+
+FOOTER:
+Logo SFX LAB
+“CREATE THE WOUND. TELL THE STORY.”
+Links:
+Shop
+The Kit
+Tutorials
+About
+Contact
+Instagram
+
+REQUISITOS DE UX/UI:
+- Página totalmente responsiva para desktop e celular
+- Navegação fixa no topo
+- Rolagem suave entre seções
+- Microanimações discretas
+- Hover effects nos botões e cards
+- Botões com boa hierarquia visual
+- Excelente contraste e legibilidade
+- Design premium e minimalista
+- Não deixar a página visualmente carregada
+- Usar bastante espaço negativo
+- Priorizar imagens grandes de produto
+
+IMPORTANTE SOBRE AS IMAGENS:
+As imagens devem parecer fotografias profissionais de produto, com iluminação cinematográfica e fundo escuro.
+Manter a embalagem, logo, formato e identidade visual do SFX LAB consistentes em todas as imagens.
+Evitar imagens genéricas de produtos de maquiagem.
+Evitar excesso de sangue ou gore.
+O foco principal deve ser o produto e sua apresentação premium.
+
+TECNOLOGIA:
+Use React, CSS e componentes modernos.
+Organize o código de forma limpa e modular.
+A página deve funcionar imediatamente no preview do Replit.

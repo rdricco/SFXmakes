@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "SFX LAB — Horror Starter Kit"
+description = "Landing page premium e cinematográfica para o kit de maquiagem de efeitos especiais SFX LAB, voltada a iniciantes, estudantes e criadores de horror."
+version = "1.0.0"
+id = "artifacts/sfx-lab"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 18594
+
+[services.development]
+run = "pnpm --filter @workspace/sfx-lab run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/sfx-lab", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/sfx-lab/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "18594"
+BASE_PATH = "/"
