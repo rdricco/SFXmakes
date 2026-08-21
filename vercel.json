@@ -1,0 +1,12 @@
+{
+  "framework": null,
+  "installCommand": "pnpm install --ignore-scripts && pnpm rebuild esbuild",
+  "buildCommand": "cd artifacts/sfx-lab && pnpm run build",
+  "outputDirectory": "artifacts/sfx-lab/dist/public",
+  "rewrites": [
+    {
+      "source": "/((?!assets/).*)",
+      "destination": "/index.html"
+    }
+  ]
+}
