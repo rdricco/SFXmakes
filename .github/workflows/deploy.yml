@@ -29,7 +29,7 @@ jobs:
       - run: pnpm run build
         working-directory: artifacts/sfx-lab
         env:
-          BASE_PATH: /sfx-lab/
+          BASE_PATH: /SFXmakes/
       - uses: actions/upload-pages-artifact@v3
         with:
           path: artifacts/sfx-lab/dist/public
